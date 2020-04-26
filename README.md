@@ -6,7 +6,7 @@
 
 Playing around with React in these isolated times, stay productive and be safe!
 
-#### Technologies used:
+#### Technologies used-
 
 React 16.13.1, React router dom 5.1.2
 
